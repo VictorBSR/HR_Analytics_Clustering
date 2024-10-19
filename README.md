@@ -93,7 +93,7 @@ pio.renderers.default = 'notebook'
 
 
 ```python
-filepath=r'C:\Users\VT418741\OneDrive\Documentos\DataScience\Projeto HR Analytics'
+filepath=r''
 ```
 
 
